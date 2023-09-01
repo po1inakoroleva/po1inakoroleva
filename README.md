@@ -6,7 +6,7 @@ Front-end web developer
 
 * ✉️  You can contact me at [polinakorolevaaaaa@gmail.com](mailto:polinakorolevaaaaa@gmail.com)
 * 🚀  I'm currently working on [RSS Aggregator](http://po1inakoroleva-rss-aggregator.vercel.app/)
-* 📄 Know about my experiences [https://cv.hexlet.io/ru/resumes/2711](https://cv.hexlet.io/ru/resumes/2711)
+* 📄  Know about my experiences [https://cv.hexlet.io/ru/resumes/2711](https://cv.hexlet.io/ru/resumes/2711)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I really love front-end development and design
