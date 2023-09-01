@@ -6,9 +6,16 @@ Front-end web developer
 
 * ✉️  You can contact me at [polinakorolevaaaaa@gmail.com](mailto:polinakorolevaaaaa@gmail.com)
 * 🚀  I'm currently working on [RSS Aggregator](http://po1inakoroleva-rss-aggregator.vercel.app/)
+* 📄 Know about my experiences [https://cv.hexlet.io/ru/resumes/2711](https://cv.hexlet.io/ru/resumes/2711)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I really love front-end development and design
+
+### My projects
+
+* ⭐ The [RSS aggregator](https://github.com/po1inakoroleva/frontend-project-11) is an application that collects RSS feeds from dispersed sources and provides a single consolidated view.
+* 🎭 The [Difference generator](https://github.com/po1inakoroleva/frontend-project-46) is a program that determines the difference between two data structures. Support for different input formats: yaml, json.
+* 👾 The [Brain Games](https://github.com/po1inakoroleva/frontend-project-44) is a set of five console games.
 
 ### Skills
 
