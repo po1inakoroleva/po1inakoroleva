@@ -5,7 +5,7 @@ Front-end Developer
 -----------------------
 
 * ✉️  You can contact me at [polinakorolevaaaaa@gmail.com](mailto:polinakorolevaaaaa@gmail.com)
-* 🚀  My last project is [RSS Aggregator](https://github.com/po1inakoroleva/frontend-project-11)
+* 🚀  I’m currently working on [Chat](https://github.com/po1inakoroleva/frontend-project-12)
 * 📄  Know about my experiences [https://cv.hexlet.io/ru/resumes/2711](https://cv.hexlet.io/ru/resumes/2711)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
