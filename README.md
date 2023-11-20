@@ -1,7 +1,6 @@
 <h3>Hi there!✌</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9759F7&random=false&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
-
 ```yaml
 name: Polina Koroleva
 languages: ["Russian", "English"]
